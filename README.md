@@ -25,6 +25,7 @@ If you had selected "ABC" for text, choose "red" for text color, select "circle"
     <circle cx="50%" cy="50%" r="50%" fill="blue" />
     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-size="30" fill="red">ABC</text>
 </svg>
+https://watch.screencastify.com/v/1pvhXX7HPcOvXEpNpzRn
 ```
 ## Output 
 Generated SVG logo is saved to a file named 'logo.svg' in the project dirctory.
